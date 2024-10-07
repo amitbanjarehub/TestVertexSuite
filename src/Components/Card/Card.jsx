@@ -40,10 +40,8 @@ const VertexCard = ({
         maxWidth: 225,
         borderRadius: "16px",
         overflow: "hidden",
-        ...appliedStyle,
-        // border: "1px solid green",
-        transition: "all 1s ease",
-        // border: "1px solid red",
+        ...appliedStyle,       
+        transition: "all 1s ease",       
         zIndex: isHovered ? 1000 : 1,
        
       }}

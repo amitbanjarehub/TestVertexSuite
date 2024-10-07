@@ -1,27 +1,4 @@
-// import { Stack } from "@mui/material";
-// import React from "react";
-// import { FaArrowUpLong } from "react-icons/fa6";
 
-// const CardMotion = () => {
-//   return (
-//     <Stack
-//       sx={{
-//         marginTop: "100px",
-//         display: "flex",
-//         flexDirection: "row",
-//         justifyContent: "center",
-//         alignItems: "center",
-//         marginBottom: "100px",
-//       }}
-//     >
-//       <Stack>
-//         <FaArrowUpLong size={60} />
-//       </Stack>
-//     </Stack>
-//   );
-// };
-
-// export default CardMotion;
 
 import { Stack } from "@mui/material";
 import React, { useEffect, useState } from "react";

@@ -44,8 +44,7 @@ const Layout = () => {
         <FAQList />       
         <Section14 />
 
-        {/* <DesignCards /> */}
-        {/* <SwipeCards /> */}
+       
       </main>
       <Footer />
     </>
