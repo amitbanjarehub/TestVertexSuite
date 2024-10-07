@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/TestVertexSuite/static/css/main.c7ec3132.css",
+    "main.js": "/TestVertexSuite/static/js/main.f2321e7a.js",
+    "static/media/mainSection2Video.mp4": "/TestVertexSuite/static/media/mainSection2Video.fdd10b5a2361bfba2eee.mp4",
+    "static/media/Video.mp4": "/TestVertexSuite/static/media/Video.aa0db08afe9fb785d4c1.mp4",
+    "static/media/Video4.mp4": "/TestVertexSuite/static/media/Video4.987bae8da48dacceaa6b.mp4",
+    "static/media/Video2.mp4": "/TestVertexSuite/static/media/Video2.c2d47efb41526db47c44.mp4",
+    "static/media/Video6.mp4": "/TestVertexSuite/static/media/Video6.2ba7654f58132e75e162.mp4",
+    "static/media/section8first.png": "/TestVertexSuite/static/media/section8first.e0fce1279a2319fce300.png",
+    "static/media/Video3.mp4": "/TestVertexSuite/static/media/Video3.060b57711b3d6658c2a0.mp4",
+    "static/media/Video5.mp4": "/TestVertexSuite/static/media/Video5.44b36259e07ee0b88730.mp4",
+    "static/media/2_column_c983b8610c.png": "/TestVertexSuite/static/media/2_column_c983b8610c.2126ef53f1a1a5cf2801.png",
+    "static/media/section8third.png": "/TestVertexSuite/static/media/section8third.f79d1872920aa186bbae.png",
+    "static/media/section8second.png": "/TestVertexSuite/static/media/section8second.37c78f689f95eb5c91d1.png",
+    "static/media/section7.png": "/TestVertexSuite/static/media/section7.8363e0d3a8b9efc2d026.png",
+    "static/media/cardStackImage.png": "/TestVertexSuite/static/media/cardStackImage.18181a88864c635477df.png",
+    "static/media/vertex_suite_logo.png": "/TestVertexSuite/static/media/vertex_suite_logo.7a4acddde32cae8c030e.png",
+    "static/media/Group_1110165752_d5d3675d1c.png": "/TestVertexSuite/static/media/Group_1110165752_d5d3675d1c.e5a7f82ed61644678210.png",
+    "static/media/Frame_1110166543_66d11d4241.png": "/TestVertexSuite/static/media/Frame_1110166543_66d11d4241.402abbd60a40ca145b24.png",
+    "static/media/Quizes.png": "/TestVertexSuite/static/media/Quizes.b547dd316729b9440fa0.png",
+    "static/media/surveys.png": "/TestVertexSuite/static/media/surveys.7dc1cb314bca118dbebe.png",
+    "static/media/Games.png": "/TestVertexSuite/static/media/Games.027a6e09de4bc58cf422.png",
+    "static/media/Polls.png": "/TestVertexSuite/static/media/Polls.63394acde17c3bb61d02.png",
+    "static/media/main2.png": "/TestVertexSuite/static/media/main2.c479000f04eea2aeef33.png",
+    "static/media/forms.png": "/TestVertexSuite/static/media/forms.ef52cd8210d1432dc13f.png",
+    "static/media/caruselImage.png": "/TestVertexSuite/static/media/caruselImage.dd97ec57123befaef327.png",
+    "static/media/img7.png": "/TestVertexSuite/static/media/img7.81d6c59a02b9212dc196.png",
+    "static/media/img9.png": "/TestVertexSuite/static/media/img9.df58d6a0486f458e5821.png",
+    "static/media/img5.png": "/TestVertexSuite/static/media/img5.a913b5a54accb7e69b08.png",
+    "static/media/img1.png": "/TestVertexSuite/static/media/img1.8d74e1260464621e4698.png",
+    "static/media/img6.png": "/TestVertexSuite/static/media/img6.68e6efd50a8d9d2faced.png",
+    "static/media/img8.png": "/TestVertexSuite/static/media/img8.3d850d58f439c2f51807.png",
+    "static/media/img3.png": "/TestVertexSuite/static/media/img3.b06b059f2ba729c08f5a.png",
+    "index.html": "/TestVertexSuite/index.html",
+    "main.c7ec3132.css.map": "/TestVertexSuite/static/css/main.c7ec3132.css.map",
+    "main.f2321e7a.js.map": "/TestVertexSuite/static/js/main.f2321e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.f2321e7a.js"
+  ]
+}
